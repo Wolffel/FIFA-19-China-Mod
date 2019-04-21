@@ -28,7 +28,8 @@ releases and download the .rar file).
 (C:\Users\(YourName)\Documents\FIFA 19\settings)
 5.	Open the mod manager folder, then execute the frosty mod manager.exe
 6.	You will have a new window with the name of the mod manager and version. Search under the window a tab that says import mods.
-7.	Select the .rar file that you have downloaded (don't extract the mod, just select the .rar and import the mod).
+7.	Select the .rar file that you have downloaded (don't extract the mod, just select the .rar and import the mod)(if you download
+this mod by the release tab just import the .fbmod archive in the frosty mod manager).
 8.	If everything was correct you will see the emblem of China and your next step will click on the launch option.
 9.  Once the game is started load the squads file you have placed before, go to customize, profile and load the squads file.
 10.	Enjoy the mod!
